@@ -1,5 +1,5 @@
 # -------------------------------
-# SNAKE WATER GUN GAME
+# GAME : SNAKE WATER GUN 
 # -------------------------------
 
 # Step 1: Import the random module
@@ -100,7 +100,7 @@ def start():
     print("\nFinal Results:")
     print(f"Your Score: {user_score}")
     print(f"Computer Score: {computer_score}")
-
+    
     print("-" * 80)
     # Compare scores to declare the overall winner.
     if user_score > computer_score:
