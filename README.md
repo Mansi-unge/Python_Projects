@@ -28,7 +28,7 @@ The goal of this repo is to **document my learning journey** and build a collect
 Below are the projects currently available in this repository.  
 More projects will be added as I continue my Python journey.
 
-### Snake Water Gun Game
+### 1. Snake Water Gun Game
 A simple command-line game similar to Rock-Paper-Scissors.
 
 **Description:**  
