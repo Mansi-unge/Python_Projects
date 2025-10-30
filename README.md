@@ -18,7 +18,7 @@ The goal of this repo is to **document my learning journey** and build a collect
 
 ## Technologies & Tools
 - **Language:** Python 3  
-- **IDE:** VS Code / PyCharm  
+- **IDE:** VS Code 
 - **Modules Used:** Random, OS, Tkinter, etc. (varies by project)  
 - **Version Control:** Git & GitHub  
 
@@ -49,8 +49,8 @@ A simple command-line game similar to Rock-Paper-Scissors.
 
 
 
-## 👩‍💻 Author
+## Author
 **Mansi Unge**  
 Python & MERN Stack Developer  
 
-⭐ *If you like this repository or find it useful, consider giving it a star!*
+*If you like this repository or find it useful, consider giving it a star!*
